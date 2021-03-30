@@ -1,5 +1,8 @@
 # Mock4Swagger - A mock server for Swagger API specification.
 
+[![image](https://img.shields.io/github/v/release/meanstrong/Mock4Swagger)](https://github.com/meanstrong/Mock4Swagger)
+[![image](https://img.shields.io/github/license/meanstrong/Mock4Swagger)](https://github.com/meanstrong/Mock4Swagger)
+
 ## About
 Mock4Swagger是一个基于swagger API json文件的mock server，返回数据中自动填充faker data。
 
